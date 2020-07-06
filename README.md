@@ -1,4 +1,4 @@
-## 📝 Takayuki Takahashi
+## Takayuki Takahashi
 
 [Wantedlyプロフィール](https://www.wantedly.com/users/113160879)
 
