@@ -50,7 +50,7 @@ https://github.com/tktkaws/radio-sort
 | GOAL | タイピング速度 300文字/分            |
 | ---- | ------------------------------------ |
 | WHY  | 生産性が高い＝即戦力に近いことの証明 |
-| HOW  | タイピング練習サイト                 |
+| HOW  | タイピング練習サイト<br />  https://www.typingclub.com/               |
 
 
 
