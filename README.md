@@ -1,8 +1,8 @@
 ## Takayuki Takahashi
 
-[Wantedlyプロフィール](https://www.wantedly.com/users/113160879)
 
-[Twitter](https://twitter.com/tktkaws)
+
+
 
 
 
