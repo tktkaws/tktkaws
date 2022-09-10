@@ -6,7 +6,7 @@
 
 
 
-## ポートフォリオ
+## ポートフォリオ（2年前に作成）
 
 [RADIO SORT](https://radio-sort.xyz/)
 ※現在非公開
