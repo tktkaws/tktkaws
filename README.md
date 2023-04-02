@@ -1,25 +1,27 @@
-## Takayuki Takahashi
-フロントエンドエンジニアを目指して学習中です。
+## タカハシタカユキ
+コーダーを目指しています。
+
+1986年生まれ
+
+神奈川県平塚市在住
+
+早稲田大学政治経済学部卒業
 
 
+## ポートフォリオ
 
+https://tk-tk.site/
 
+[works03_05 (1).webm](https://user-images.githubusercontent.com/53632056/229346148-137b5064-51ec-4f1d-b777-55051171d2d8.webm)
 
+## ブログ
 
-## ポートフォリオ（2年前に作成）
+https://www.front-dispatch.website/
 
-[RADIO SORT](https://radio-sort.xyz/)
-※現在非公開
+https://user-images.githubusercontent.com/53632056/229346358-11a4a976-8933-499a-8ee2-1d85edc82dca.mp4
 
-##### ドラッグ&ドロップでお気に入りのラジオ番組に順位をつけるアプリ
+## Contact
 
+ttkaws15@gmail.com
 
-<img src="https://user-images.githubusercontent.com/53632056/83470954-639a0080-a4be-11ea-9ab7-ca54cae263c0.gif" width="25%">       <img src="https://user-images.githubusercontent.com/53632056/83470938-5d0b8900-a4be-11ea-8495-1df7e60e7ded.png" width="25%">       <img src="https://user-images.githubusercontent.com/53632056/83470947-6137a680-a4be-11ea-9290-b50d57db6079.png" width="25%">
-
-
-使用技術：Rails / Postgre / jQuery / AWS/ Circle CI / Docker / Materialize
-
-主な機能： D&Dによる順位の入替・フォロー・コメント・ページネーション(AJAX) / Twitter認証ログイン・Twitter投稿 / 簡単ログイン / 番組表(APIからxmlをパース) / ランキング(集計対象を切替) / 検索
-リンク：
-
-https://github.com/tktkaws/radio-sort
+https://twitter.com/takaws
