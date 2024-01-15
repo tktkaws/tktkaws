@@ -1,12 +1,9 @@
-## タカハシタカユキ
-コーダーを目指しています。
+## About
+2024年1月からコーダーになりました。
 
 1986年生まれ
 
 神奈川県平塚市在住
-
-早稲田大学政治経済学部卒業
-
 
 ## ポートフォリオ
 
@@ -19,9 +16,3 @@ https://tk-tk.site/
 https://www.front-dispatch.website/
 
 https://user-images.githubusercontent.com/53632056/229346358-11a4a976-8933-499a-8ee2-1d85edc82dca.mp4
-
-## Contact
-
-ttkaws15@gmail.com
-
-https://twitter.com/takaws
