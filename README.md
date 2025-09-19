@@ -1,5 +1,5 @@
 ## About
-2024年1月からコーダーになりました。
+2024年1月から都内Web制作会社でコーダーとして勤務
 
 1986年生まれ
 
@@ -7,4 +7,4 @@
 
 ## ブログ
 
-https://front-dispatch-2025.vercel.app/
+https://front-dispatch.vercel.app/
